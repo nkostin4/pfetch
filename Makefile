@@ -5,7 +5,7 @@ all:
 	@echo Run \'make install\' to install $(TARGET)
 
 clean:
-	@echo nothing here
+	@echo "Installing N. Kostin's build of pfetch"
 
 install:
 	@install -Dm755 $(TARGET) $(DESTDIR)$(PREFIX)/bin/$(TARGET)
