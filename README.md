@@ -2,7 +2,7 @@
 
 A system info script written in POSIX `sh` that's meant to be much faster than neofetch.
 
-Forked from [https://github.com/dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) but with an improved `Makefile`.
+Forked from [https://github.com/dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) but with an improved `Makefile` (and some other goofy junk removed).
 
 ## OS support
 

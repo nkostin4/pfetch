@@ -5,7 +5,7 @@ all:
 	@echo Run \'make install\' to install $(TARGET)
 
 clean:
-	rm -f pfetch
+	@echo nothing to do here
 
 install:
 	@install -Dm755 $(TARGET) $(DESTDIR)$(PREFIX)/bin/$(TARGET)
